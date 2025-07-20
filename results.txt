@@ -1,0 +1,10 @@
+--- Results ---
+Thread Type   : Virtual
+Task Type     : MIXED
+Total Time    : 5425 ms
+Throughput    : 20481 tasks/sec
+Avg Latency   : 0.05 ms
+Memory Used   : 136873 KB
+Threads Created: 1
+
+-------------------------------

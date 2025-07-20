@@ -1,0 +1,165 @@
+--- Results ---
+Thread Type     : Platform
+Task Type       : CPU
+Total Time      : 231 ms
+Throughput      : 21649 tasks/sec
+Avg Latency     : 0.05 ms
+Memory Used     : 26349 KB
+Threads Created : 1
+Tasks Completed : 5001
+
+-------------------------------
+--- Results ---
+Thread Type     : Virtual
+Task Type       : CPU
+Total Time      : 48 ms
+Throughput      : 104187 tasks/sec
+Avg Latency     : 0.01 ms
+Memory Used     : 9134 KB
+Threads Created : 1
+Tasks Completed : 5001
+
+-------------------------------
+--- Results ---
+Thread Type     : ForkJoin
+Task Type       : CPU
+Total Time      : 25 ms
+Throughput      : 200040 tasks/sec
+Avg Latency     : 0.00 ms
+Memory Used     : 6615 KB
+Threads Created : 1
+Tasks Completed : 5001
+
+-------------------------------
+--- Results ---
+Thread Type     : StructuredScoped
+Task Type       : CPU
+Total Time      : 49 ms
+Throughput      : 102061 tasks/sec
+Avg Latency     : 0.01 ms
+Memory Used     : 8110 KB
+Threads Created : 1
+Tasks Completed : 5001
+
+-------------------------------
+--- Results ---
+Thread Type     : StructuredBatching
+Task Type       : CPU
+Total Time      : 47 ms
+Throughput      : 106404 tasks/sec
+Avg Latency     : 0.01 ms
+Memory Used     : 8110 KB
+Threads Created : 1
+Tasks Completed : 5001
+
+-------------------------------
+--- Results ---
+Thread Type     : Platform
+Task Type       : IO
+Total Time      : 13197 ms
+Throughput      : 1515 tasks/sec
+Avg Latency     : 0.66 ms
+Memory Used     : 46838 KB
+Threads Created : 1
+Tasks Completed : 20001
+
+-------------------------------
+--- Results ---
+Thread Type     : Virtual
+Task Type       : IO
+Total Time      : 1293 ms
+Throughput      : 15468 tasks/sec
+Avg Latency     : 0.06 ms
+Memory Used     : 166613 KB
+Threads Created : 1
+Tasks Completed : 20001
+
+-------------------------------
+--- Results ---
+Thread Type     : ForkJoin
+Task Type       : IO
+Total Time      : 155663 ms
+Throughput      : 128 tasks/sec
+Avg Latency     : 7.78 ms
+Memory Used     : 24676 KB
+Threads Created : 1
+Tasks Completed : 20001
+
+-------------------------------
+--- Results ---
+Thread Type     : StructuredScoped
+Task Type       : IO
+Total Time      : 1276 ms
+Throughput      : 15674 tasks/sec
+Avg Latency     : 0.06 ms
+Memory Used     : 112316 KB
+Threads Created : 1
+Tasks Completed : 20001
+
+-------------------------------
+--- Results ---
+Thread Type     : StructuredBatching
+Task Type       : IO
+Total Time      : 2670 ms
+Throughput      : 7491 tasks/sec
+Avg Latency     : 0.13 ms
+Memory Used     : 27909 KB
+Threads Created : 1
+Tasks Completed : 20001
+
+-------------------------------
+--- Results ---
+Thread Type     : Platform
+Task Type       : MIXED
+Total Time      : 3348 ms
+Throughput      : 1493 tasks/sec
+Avg Latency     : 0.67 ms
+Memory Used     : 64473 KB
+Threads Created : 1
+Tasks Completed : 5001
+
+-------------------------------
+--- Results ---
+Thread Type     : Virtual
+Task Type       : MIXED
+Total Time      : 455 ms
+Throughput      : 10991 tasks/sec
+Avg Latency     : 0.09 ms
+Memory Used     : 27924 KB
+Threads Created : 1
+Tasks Completed : 5001
+
+-------------------------------
+--- Results ---
+Thread Type     : ForkJoin
+Task Type       : MIXED
+Total Time      : 38923 ms
+Throughput      : 128 tasks/sec
+Avg Latency     : 7.78 ms
+Memory Used     : 5554 KB
+Threads Created : 1
+Tasks Completed : 5001
+
+-------------------------------
+--- Results ---
+Thread Type     : StructuredScoped
+Task Type       : MIXED
+Total Time      : 509 ms
+Throughput      : 9825 tasks/sec
+Avg Latency     : 0.10 ms
+Memory Used     : 20576 KB
+Threads Created : 1
+Tasks Completed : 5001
+
+-------------------------------
+--- Results ---
+Thread Type     : StructuredBatching
+Task Type       : MIXED
+Total Time      : 750 ms
+Throughput      : 6668 tasks/sec
+Avg Latency     : 0.15 ms
+Memory Used     : 48735 KB
+Threads Created : 1
+Tasks Completed : 5001
+
+-------------------------------
